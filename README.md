@@ -37,4 +37,4 @@ The chatbot will calculate the total price based on the current stock value and 
 
 Enjoy trading with the Stock Broker Chatbot! 🚀
 
-**Note:** Due to the unavailability of transaction APIs, we have implemented simple simulated transactions. In the future, if such APIs become available, we could integrate them to link with a trading account.
+**Note:** We are currently unable to utilize transaction APIs; therefore, we have implemented simple simulated transactions. If the use of such APIs becomes possible, we can integrate them to link with a trading account to execute real stock transactions.
